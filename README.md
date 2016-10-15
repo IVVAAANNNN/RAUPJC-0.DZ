@@ -14,7 +14,7 @@
 - Pero: Hello World
 
 #Pitanje 4
--Dodan je novi .dll file PeroClassLibrary
+- Dodan je novi .dll file PeroClassLibrary
 
 #Pitanje 5
 - Build radi jer se .dll file nalazi u bin/debug direktoriju 
